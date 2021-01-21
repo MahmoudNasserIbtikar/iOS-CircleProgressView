@@ -9,6 +9,7 @@
 import UIKit
 
 @UIApplicationMain
+@objc(ABCCircleProgressView)
 class AppDelegate: UIResponder, UIApplicationDelegate {
                             
     var window: UIWindow?
